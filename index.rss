@@ -2,24 +2,24 @@
 <title>Richard Bernards's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>566:708:1133:                                Banker (Level 5)</title><description>567:709:1134:         Join two or more development histories together with git merge.</description></item>
-<item><title>562:703:1125:                                Author (Level 6)</title><description>563:704:1126:                     Made 2^Level commits using git commit.</description></item>
-<item><title>558:698:1117:                               Socialite (Level 6)</title><description>559:699:1118:              pushed a branch to a remote repository using git push</description></item>
-<item><title>554:693:1109:                                Banker (Level 4)</title><description>555:694:1110:         Join two or more development histories together with git merge.</description></item>
-<item><title>550:688:1101:                         Apprentice Blacksmith (Level 3)</title><description>551:689:1102:                     Created a branch using git checkout -b.</description></item>
-<item><title>546:683:1093:                               Socialite (Level 5)</title><description>547:684:1094:              pushed a branch to a remote repository using git push</description></item>
-<item><title>542:678:1085:                           Apprentice Banker (Level 3)</title><description>543:679:1086:         Join two or more development histories together with git merge.</description></item>
-<item><title>538:673:1077:                                Author (Level 5)</title><description>539:674:1078:                     Made 2^Level commits using git commit.</description></item>
-<item><title>534:668:1069:                         Apprentice Blacksmith (Level 2)</title><description>535:669:1070:                     Created a branch using git checkout -b.</description></item>
-<item><title>530:663:1061:                               Socialite (Level 4)</title><description>531:664:1062:              pushed a branch to a remote repository using git push</description></item>
-<item><title>526:658:1053:                         Apprentice Blacksmith (Level 1)</title><description>527:659:1054:                     Created a branch using git checkout -b.</description></item>
-<item><title>522:653:1045:                         Apprentice Socialite (Level 3)</title><description>523:654:1046:              pushed a branch to a remote repository using git push</description></item>
-<item><title>518:648:1037:                           Apprentice Miller (Level 3)</title><description>519:649:1038:        Add only part of a file to the stage 1053 times with git add -p.</description></item>
-<item><title>514:643:1029:                           Apprentice Miller (Level 2)</title><description>515:644:1030:        Add only part of a file to the stage 1049 times with git add -p.</description></item>
-<item><title>510:638:1021:                           Apprentice Miller (Level 1)</title><description>511:639:1022:        Add only part of a file to the stage 1047 times with git add -p.</description></item>
-<item><title>506:633:1013:                                Author (Level 4)</title><description>507:634:1014:                     Made 2^Level commits using git commit.</description></item>
-<item><title>502:628:1005:                           Master Architect (Level 11)</title><description>503:629:1006:                     Created a new repository with git init.</description></item>
-<item><title>498:623:997:                         Master Cleaning lady (Level 10)</title><description>499:624:998:           Remove untracked files from the working tree with git clean</description></item>
-<item><title>494:618:989:                         Master Cleaning lady (Level 9)</title><description>495:619:990:           Remove untracked files from the working tree with git clean</description></item>
-<item><title>490:613:981:                        Master Chimney Sweeper (Level 10)</title><description>491:614:982:  Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
+<item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Socialite (Level 4)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Apprentice Socialite (Level 3)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 1053 times with git add -p.</description></item>
+<item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 1049 times with git add -p.</description></item>
+<item><title>Apprentice Miller (Level 1)</title><description>Add only part of a file to the stage 1047 times with git add -p.</description></item>
+<item><title>Author (Level 4)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Master Architect (Level 11)</title><description>Created a new repository with git init.</description></item>
+<item><title>Master Cleaning lady (Level 10)</title><description>Remove untracked files from the working tree with git clean</description></item>
+<item><title>Master Cleaning lady (Level 9)</title><description>Remove untracked files from the working tree with git clean</description></item>
+<item><title>Master Chimney Sweeper (Level 10)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 </channel></rss>
